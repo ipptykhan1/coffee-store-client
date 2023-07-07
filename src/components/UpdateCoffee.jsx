@@ -3,7 +3,7 @@
 const UpdateCoffee = () => {
     return (
         <div>
-            <h1> const UpdateCoffee </h1>
+            <h1> UpdateCoffee </h1>
         </div>
     );
 };
